@@ -1,8 +1,16 @@
 # Usbhub
 
-This is a usb hub I made on EasyEDA, it works through Usb-C to one Usb-C and two Usb-A
+Usbhub is a usbhub. It works through a Usb-C port to one Usb-C and two Usb-A
+
 I followed the macondo tutorial, and through endless debugging, finally finished the product.
 Looking forward to assembling it once parts arive!
+
+<h2>Features</h2>
+Usb hub
+enables one Usb-C and two Usb-a
+
+<h2>CAD Model</h2>
+Made on onshape, should be enough to fit the usbhub in. Bottom case and top case will be attached together, giving the Usbhub a nicer look
 
 
 <h2>Screenshots:</h2>
