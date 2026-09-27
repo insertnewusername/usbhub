@@ -21,7 +21,14 @@ Made on onshape, should be enough to fit the usbhub in. Bottom case and top case
 
 <img width="1223" height="547" alt="Screenshot 2026-09-02 204106" src="https://github.com/user-attachments/assets/2db8b8da-390d-4acc-8cc3-bd61bc20cb8d" />
 <img width="1042" height="460" alt="Screenshot 2026-09-02 201835" src="https://github.com/user-attachments/assets/427fa0d3-46eb-4e4a-a3a4-7512337b714a" />
+<h2>PCB</h2>
 <img width="527" height="380" alt="Screenshot 2026-09-02 204158" src="https://github.com/user-attachments/assets/9f971ead-5f4a-4fc7-9d00-d396accccc44" />
+
+<h2>SCHEMATICS</h2>
+
+
+<img width="931" height="508" alt="Screenshot 2026-09-27 200231" src="https://github.com/user-attachments/assets/4883f861-d534-4fdd-9c62-a2879129a375" />
+
 
 <h2>BOM</h2>
 Please see BOM.csv
