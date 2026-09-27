@@ -1,6 +1,7 @@
 Item,Description,Supplier/Detail,Cost (USD)
 PCB, Custom PCB Fabrication, JLCPCB (Cheapest Shipping),22.52
+Corechip, item no #:C2684433, JLCPCB, 0.23
 USBA, item no C668591, JLCPCB qty 15, 1.05
-USBC, item no TYPE-C 16PIN 2MD(073), JLCPCB qty 10, 0.70
+USBC, item no TYPE-C 16PIN 2MD(073), JLCPCB qty 11, 0.82
 Case,3D Printer Filament,General,10.00
-Total,,,34.27
+Total,,,34.62
