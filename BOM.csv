@@ -1,7 +1,7 @@
 Item,Description,Supplier/Detail,Cost (USD)
-PCB,Custom PCB Fabrication,JLCPCB (Cheapest Shipping),11.93
-USBA, item no C668591 from JLCPCB qty 15, 1.05
-USBC, item no TYPE-C 16PIN 2MD(073) qty 10, 0.70
-Corechip, SL2.1s qty 5, 1.10
+PCB, Custom PCB Fabrication, JLCPCB (Cheapest Shipping),11.93
+USBA, item no C668591, JLCPCB qty 15, 1.05
+USBC, item no TYPE-C 16PIN 2MD(073), JLCPCB qty 10, 0.70
+Corechip, SL2.1s, JLCPCB qty 5, 1.10
 Case,3D Printer Filament,General,10.00
 Total,,,24.78
