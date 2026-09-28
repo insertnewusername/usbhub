@@ -7,7 +7,8 @@ I designed this as a usbhub to help my laptop be able to connect to more stuff
 
 I followed the macondo tutorial, and through endless debugging, finally finished the product.
 Looking forward to assembling it once parts arive!
-
+<h2>NOTE TO REVIEWER (forgot to say earlier)</h2>
+Since I'm getting my friend to print me the case, if u approve my project pls tell me if it's ok for me to just transfer the money to his account, and then as a receipt just show a picture of the case he gave me, or does he need to write an invoice or smth, ty
 <h2>Features</h2>
 Usb hub
 enables one Usb-C and three Usb-a
