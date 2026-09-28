@@ -26,7 +26,7 @@ BTW spline gave me nightmares
 <h2>Screenshots:</h2>
 
 <img width="678" height="650" alt="Screenshot 2026-09-27 174045" src="https://github.com/user-attachments/assets/32bb533f-d15f-48e6-949b-247b486e89e5" />
-
+Preview (it' look so cute!)
 <h2>PCB</h2>
 <img width="526" height="481" alt="Screenshot 2026-09-27 195852" src="https://github.com/user-attachments/assets/87cc74bc-73e3-4d4d-aae0-fc5fa7cf7c48" />
 
