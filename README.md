@@ -4,7 +4,7 @@ Usbhub is a usbhub. It works through a Usb-C port to one Usb-C and three Usb-A
 I made it panda themed cuz why not?
 
 I designed this as a usbhub to help my laptop be able to connect to more stuff
-
+Designed this on EASYEDA
 I followed the macondo tutorial, and through endless debugging, finally finished the product.
 Looking forward to assembling it once parts arive!
 <h2>NOTE TO REVIEWER (forgot to say earlier)</h2>
