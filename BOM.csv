@@ -1,7 +1,7 @@
 Item,Description,Supplier/Detail,Cost (USD)
 PCB, Custom PCB Fabrication, JLCPCB (Cheapest Shipping),22.52
-Corechip, item no #:C2684433, JLCPCB, 0.23
-USBA, item no C668591, JLCPCB qty 15, 1.05
-USBC, item no TYPE-C 16PIN 2MD(073), JLCPCB qty 11, 0.82
+Corechip, https://jlcpcb.com/partdetail/CoreChips-SL21s/C2684433 item no #:C2684433 JLCPCB, 0.23
+USBA, https://jlcpcb.com/partdetail/10.0%20QHHTZB6.3/C668591, item no C668591 JLCPCB qty 15, 1.05
+USBC, https://www.lcsc.com/product-detail/USB-Connectors_SHOU-HAN-TYPE-C-16PIN-2MD-073_C2765186.html, item no TYPE-C 16PIN 2MD(073) JLCPCB qty 11, 0.82
 Case,3D Printing cost +  Filament (50-80 gram),General,6
 Total,,,30.62
