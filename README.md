@@ -14,6 +14,10 @@ It's literally a portable Usb hub in the shape of a panda
 plug in a cable to ur device, plug other end into one of the usb-c ports of the usb hub, and then you have
  one Usb-C and three Usb-a 
 
+<h2>Uses</h2>
+This is a really amazing tool, as it's a usb hub. So it will be very helpful for people who's computers don't have much physical ports (macbooks etc)
+
+
 <h2>CAD Model</h2>
 Made on onshape, should be enough to fit the usbhub in. Will glue to pcb to the case, giving the Usbhub a nicer look hopefully
 BTW spline gave me nightmares
